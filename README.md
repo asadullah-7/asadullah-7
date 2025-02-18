@@ -14,5 +14,7 @@ Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" /> &nbsp;
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
+### Languages I’m Learning:
 
+<img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="German" width="40" height="40" />
 Feel free to connect with me!
