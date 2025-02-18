@@ -13,6 +13,6 @@ Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" /> &nbsp;
-<img src="https://img.icons8.com/external-flat-juicy-fish/64/null/external-assembly-coding-and-development-flat-flat-juicy-fish.png" alt="Assembly" width="40" height="40" />
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
 
 Feel free to connect with me!
