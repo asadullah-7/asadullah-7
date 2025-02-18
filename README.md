@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! 👋
+I’m Asad Ullah, 
+BSCS student proudly at University of Central Punjab Lahore Pakistan, I'm passionate about solving complex problems and building innovative solutions, I’m eager to continuously learn, enhance my skills, and stay up-to-date with the latest advancements in computer science and technology.
+- 🌱 Currently working on Python
+- 🎯 Passionate about coding and travelling
+- 📧 asadullah.work211@gmail.com
 
-<!--
-**AsadUllah-sys211/AsadUllah-sys211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to connect with me!
