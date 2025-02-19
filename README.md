@@ -17,4 +17,21 @@ Skills
 ### Languages I’m Learning:
 
 <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="German" width="40" height="40" />
+
+Socials
+### Connect With Me:
+
+<a href="https://github.com/YourGitHubUsername" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+</a> &nbsp;
+
+<a href="https://www.linkedin.com/in/yourlinkedinprofile" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+</a> &nbsp;
+
+<a href="https://twitter.com/yourtwitterusername" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="40" height="40" />
+</a>
+
+
 Feel free to connect with me!
