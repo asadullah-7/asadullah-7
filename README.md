@@ -19,12 +19,12 @@ Skills
 <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="German" width="40" height="40" />
 
 Socials
-
 ### Connect With Me:
 
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/asad-ullah-80b659344/" target="_blank">
+<a href="https://www.linkedin.com/in/asad-ullah-80b659344/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
 </a>
+
 
 
 
