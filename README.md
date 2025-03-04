@@ -9,7 +9,7 @@ I'm an undergrad student currently persuing a bachelors degree in Computer Scien
 * 🌍  I'm based in Lahore
 * ✉️  You can contact me at [asadullah.work211@gmail.com](mailto:asadullah.work211@gmail.com)
 * 🧠  I'm learning Data Structures & Algorithms (C\\C++)
-* ⚡  I'm a soldier without uniform...xD
+
 
 ### Skills
 
