@@ -15,11 +15,6 @@ I'm an undergraduate student pursuing a Bachelor's in **Computer Science** at th
 
 ---
 
-### 📊 GitHub Stats
-| ![Asad's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadullah-7&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullah-7&layout=compact&theme=radical) |
-| :--- | :--- |
-
----
 
 ### 🌱 What I'm Up To
 - 🔭 Currently working on sharpening my Data Structures & Algorithms (DSA).
