@@ -1,50 +1,63 @@
-# Hi there, I'm Asad Ullah 👋 🚀
+# Hi there, I'm Asad Ullah 👋 ⚡
 
-### 🎓 Aspiring Computer Scientist | Problem Solver | Tech Enthusiast
+### 🎓 Computer Science Senior @ UCP | Backend & AI Systems Enthusiast
 
-I'm an undergraduate student pursuing a Bachelor's in **Computer Science** at the **University of Central Punjab**. I specialize in building efficient solutions and have a deep-rooted passion for low-level programming and data management. I don't just write code; I strive to build innovative solutions that matter. 💡
-
----
-
-### 🛠️ My Technical Arsenal
-
-**Languages & Tools:**
-- **Core:** C, C++, Python 🐍
-- **Database:** MySQL 🗄️
-- **IDE:** VS Code 💻
+I'm a final-year Computer Science student at the **University of Central Punjab**, passionate about building robust backend architectures, dynamic data pipelines, and intelligent AI-driven systems. I focus on writing scalable code and solving real-world complex problems. 💡
 
 ---
 
+### 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks:**
+- **Core:** C#, C++, Python 🐍
+- **Backend & Web:** ASP.NET Core MVC, Entity Framework Core, FastAPI
+- **AI & Data:** RAG Architectures, LLM Integration, Pandas, Selenium 🤖
+
+**Databases & Environment:**
+- **Database:** Microsoft SQL Server, MySQL 🗄️
+- **Tools & OS:** VS Code, Visual Studio, SSMS, Linux (Ubuntu) 🐧
+
+---
 
 ### 🌱 What I'm Up To
-- 🔭 Currently working on sharpening my Data Structures & Algorithms (DSA).
-- 📚 Learning more about Software Architecture and Scalable Systems.
-- ⚡ Fun fact: When I'm not debugging, I'm probably exploring nature. 🌲
+- 🔭 **Current Focus:** Architecting AI-powered platforms & refining dynamic RAG workflows.
+- 📚 **Learning:** Scalable microservices, advanced database optimization, and high-performance system design.
+- ⚡ **Fun Fact:** When I'm not debugging APIs or writing automation scripts, I'm usually exploring nature. 🌲
 
 ---
 
-### Skills
-
+### ⚡ Skills & Tools
 
 <p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-  </a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  </a>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 </p>
 
+---
 
-### Socials
+### 📊 GitHub Stats
 
-<p align="left"> <a href="https://www.github.com/asadullah-7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/asadullah_201" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/Asad Ullah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asadullah-7&show_icons=true&theme=tokyonight" alt="Asad's GitHub Stats" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.github.com/asadullah-7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/Asad%20Ullah" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="http://www.instagram.com/asadullah_201" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
